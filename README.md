@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuba Khan</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/tubakhxn" target="blank"><img src="https://img.shields.io/twitter/follow/tubakhxn?logo=twitter&style=for-the-badge" alt="tubakhxn" /></a> </p>
+<h3 align="center">Full Stack AI-focused second-year B.Tech student at the University of Petroleum and Energy Studies.</h3>
 
 - 🔭 I’m currently working on **front end development**
 
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&locale=en" alt="tubakhxn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tubakhxn&" alt="tubakhxn" /></p>
+
