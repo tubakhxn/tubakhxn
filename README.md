@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **front end development**
 
-- 🌱 I’m currently learning **Full stack AI**
+- 🌱 I’m currently learning **HTML, CSS & JAVA**
 
 - 📝 I regularly write articles on [https://tubsphotography.art.blog/](https://tubsphotography.art.blog/)
 
