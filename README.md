@@ -5,8 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Front-end development.<br>🌱 I’m currently learning HTML, CSS & Java.<br>
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="![image](https://github.com/tubakhxn/tubakhxn/assets/122105012/8f7977c7-a23d-45c0-ae78-abf9f8aab6ca)
-">
+
 
 
 
