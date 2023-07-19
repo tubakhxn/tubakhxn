@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end development.<br>🌱 I’m currently learning HTML, CSS & JAVA.<br>
+🔭 I’m currently working on Front-end development.<br>🌱 I’m currently learning HTML, CSS & Java.<br>
 
 
 ## 🌐 Socials:
