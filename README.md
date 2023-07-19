@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Tuba Khan</h1>
+<h3 align="center">Full Stack AI-focused second-year B.Tech student at the University of Petroleum and Energy Studies.</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Front-end development.<br>🌱 I’m currently learning HTML, CSS & Java.<br>
 
