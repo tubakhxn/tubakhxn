@@ -1,4 +1,4 @@
-![logo](https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png)
+![logo]([https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png)
 <h3 align="center"> A 2nd year B.Tech student at the University of Petroleum and Energy Studies.</h3>
 
 
