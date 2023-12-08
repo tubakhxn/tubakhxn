@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Front-end development**
 
-- 🌱 I’m currently learning **Html, CSS & Java**
+- 🌱 I’m currently learning **Html, CSS & Javascript **
 
 - 📝 I regularly write articles on [https://tubsphotography.art.blog/](https://tubsphotography.art.blog/)
 
