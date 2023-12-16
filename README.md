@@ -33,8 +33,7 @@
 [![An image of @tubakhxn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tubakhxn)](https://holopin.io/@tubakhxn)
 ### ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 # 📊 GitHub Stats:
-[![tubakhxn's GitHub | Stats](https://stats.quine.sh/tubakhxn/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tubakhxn&theme=algolia&hide_border=false)
+[![tubakhxn's GitHub | Stats](https://stats.quine.sh/tubakhxn/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)![](https://github-readme-streak-stats.herokuapp.com/?user=tubakhxn&theme=algolia&hide_border=false)
 [![tubakhxn's GitHub | Languages Over Time](https://stats.quine.sh/tubakhxn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 
 ## 🏆 GitHub Trophies
