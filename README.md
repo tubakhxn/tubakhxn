@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Html, CSS & Javascript**
 
-- 📝 I regularly write articles on [https://tubsphotography.art.blog/](https://tubsphotography.art.blog/)
+- 📝 I regularly write articles on [https://tubakhan.art.blog/](https://tubakhan.art.blog/)
 
 - 📫 How to reach me **tubak2907@gmail.com**
 
