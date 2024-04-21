@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **back-end development**
+- 🔭 I’m currently working on **different projects**
   
 - 🌱 I’m currently learning **MongoDB & Javascript**
 
