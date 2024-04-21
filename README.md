@@ -4,10 +4,10 @@
 
 
 # 💫 About Me:
-- My Portfolio  [https://tubakhxn.github.io/](https://tubakhxn.github.io/)
-- 🔭 I’m currently working on **Front-end development**
+
+- 🔭 I’m currently working on **back-end development**
   
-- 🌱 I’m currently learning **Html, CSS & Javascript**
+- 🌱 I’m currently learning **MongoDB & Javascript**
 
 - 📝 I regularly write articles on [https://tubakhan.art.blog/](https://tubakhan.art.blog/)
 
