@@ -7,7 +7,7 @@
 - My Portfolio- https://tubakhxn.github.io/
 - 🔭 I’m currently working on **different projects**
   
-- 🌱 I’m currently learning **MongoDB & Javascript**
+- 🌱 I’m currently learning **android app development**
 
 - 📝 I regularly write articles on [https://tubakhan.art.blog/](https://tubakhan.art.blog/)
 
