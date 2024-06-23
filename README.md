@@ -1,5 +1,5 @@
 ![logo](https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png)
-<i><h2 align="center"> A 2nd year B.Tech student at the University of Petroleum and Energy Studies.</h2></i>
+<i><h2 align="center"> Pre-Finak year B.Tech student at the University of Petroleum and Energy Studies.</h2></i>
 
 
 
