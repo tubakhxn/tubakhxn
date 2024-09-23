@@ -26,7 +26,14 @@
 <a href="https://www.leetcode.com/tubak2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tubak2907" height="30" width="40" />
 <a href="https://linkedin.com/in/tubakhxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tubakhxn" height="30" width="40" /></a>
 
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+</a>
 
 
 </a></a>
@@ -44,8 +51,9 @@
 [![tubakhxn's GitHub | Dependencies](https://stats.quine.sh/tubakhxn/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 [![tubakhxn's GitHub | Languages Over Time](https://stats.quine.sh/tubakhxn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tubakhxn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
 
 
 
