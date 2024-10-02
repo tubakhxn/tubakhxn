@@ -21,10 +21,7 @@
 <a href="https://buymeacoffee.com/tuba.khxn" target="_blank"><img align="center" src="https://github.com/tubakhxn/tubakhxn/blob/main/coffee.png" alt="tubakhxn" height="30" width="40" />
 <a href="https://hub.docker.com/u/tubakhxn" target="_blank"><img align="center" src="https://github.com/tubakhxn/tubakhxn/blob/main/docker.png" alt="tubakhxn" height="30" width="40" />
 <a href="https://www.hackerrank.com/tubak2907?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tubak2907?hr_r=1" height="30" width="40" /></a>
-<a href="https://instagram.com/tuba.captures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuba.captures" height="30" width="40" /></a>
-<a href="https://www.behance.net/tubakhxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tubakhan9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tubak2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tubak2907" height="30" width="40" />
-<a href="https://linkedin.com/in/tubakhxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tubakhxn" height="30" width="40" /></a>
 
 
 
