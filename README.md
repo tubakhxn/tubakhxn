@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **android app development**
 
-- 📝 I regularly write articles on [https://tubakhan.art.blog/](https://tubakhan.art.blog/)
+- 📝 I regularly write articles on [https://tubakhan.art.blog/](https://tubaakhan.art.blog/)
 
 - 📫 How to reach me **tubak2907@gmail.com**
 
