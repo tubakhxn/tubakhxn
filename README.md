@@ -42,13 +42,14 @@
 [![tubakhxn's GitHub | Dependencies](https://stats.quine.sh/tubakhxn/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 [![tubakhxn's GitHub | Languages Over Time](https://stats.quine.sh/tubakhxn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tubakhxn/tubakhxn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tubakhxn/tubakhxn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tubakhxn/tubakhxn/output/github-snake.svg" />
-</picture>
-
 </div>
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/tubakhxn/tubakhxn/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+
 
