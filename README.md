@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-- My Portfolio- https://tubakhxn.netlify.app/
+- My Portfolio- https://tubaakhxn.netlify.app/
 - 🔭 I’m currently working on **different projects**
   
 - 🌱 I’m currently learning **android app development**
