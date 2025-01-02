@@ -43,14 +43,14 @@
 [![tubakhxn's GitHub | Languages Over Time](https://stats.quine.sh/tubakhxn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
 
 
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tubakhxn/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tubakhxn/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
