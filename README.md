@@ -45,7 +45,7 @@
 </div>
 <!-- Snake -->
 
-
+![Snake animation](https://raw.githubusercontent.com/tubakhxn/tubakhxn/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
   <img  src="https://github.com/tubakhxn/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
