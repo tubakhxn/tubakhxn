@@ -37,19 +37,16 @@
 # My Hactoberfest Badges:
 [![An image of @tubakhxn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tubakhxn)](https://holopin.io/@tubakhxn)
 ### ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-# 📊 GitHub Stats:
-[![tubakhxn's GitHub | Stats](https://stats.quine.sh/tubakhxn/github?theme=dark)]
-[![tubakhxn's GitHub | Dependencies](https://stats.quine.sh/tubakhxn/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
-[![tubakhxn's GitHub | Languages Over Time](https://stats.quine.sh/tubakhxn/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tubakhxn)
+## 📊 GitHub Stats:
+[![tubakhxn's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical)](https://github.com/tubakhxn)  
+[![tubakhxn's GitHub | Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubakhxn&layout=compact&theme=radical)](https://github.com/tubakhxn)  
+[![tubakhxn's GitHub | Dependencies](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tubakhxn&theme=radical)](https://github.com/tubakhxn)  
 
-</div>
-<!-- Snake -->
+---
 
-<div align="center">
-  <img  src="https://github.com/tubakhxn/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
- 
-</div>
+### 🐍 Snake Animation:
+![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
