@@ -4,6 +4,8 @@
 
 
 # 💫 About Me:
+- My 3d Portfolio- https://tubakhan.vercel.app/
+
 - My Portfolio- https://tubaakhxn.netlify.app/
 - 🔭 I’m currently working on **different projects**
   
