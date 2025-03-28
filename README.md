@@ -49,6 +49,12 @@
 ### 🐍 Snake Animation:
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
+## 📊 GitHub Contribution Graph:
+[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tubakhxn&theme=github_dark)](https://github.com/tubakhxn)
+
+
+
+
 
 
 
