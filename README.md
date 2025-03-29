@@ -41,8 +41,8 @@
 ### ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ## 📊 GitHub Stats:
 [![tubakhxn's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical)](https://github.com/tubakhxn)  
-[![tubakhxn's GitHub | Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubakhxn&layout=compact&theme=radical)](https://github.com/tubakhxn)  
-[![tubakhxn's GitHub | Dependencies](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tubakhxn&theme=radical)](https://github.com/tubakhxn)  
+
+
 
 ---
 
