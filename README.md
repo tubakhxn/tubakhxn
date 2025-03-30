@@ -1,4 +1,9 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ![logo](https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <i><h2 align="center"> A Pre-Final year B.Tech student at the University of Petroleum and Energy Studies.</h2></i>
 
 
