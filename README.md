@@ -2,7 +2,6 @@
 
 ![logo](https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <i><h2 align="center"> A Pre-Final year B.Tech student at the University of Petroleum and Energy Studies.</h2></i>
 
@@ -44,8 +43,32 @@
 # My Hactoberfest Badges:
 [![An image of @tubakhxn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tubakhxn)](https://holopin.io/@tubakhxn)
 ### ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tubakhxn&theme=github_dark" alt="GitHub Activity Graph">
+  </a>
+</p>
+
 ## 📊 GitHub Stats:
-[![tubakhxn's GitHub | Stats](https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical)](https://github.com/tubakhxn)  
+
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+</p>
+
+## 🏆 Certified Achievements  
+
+<p align="center">
+  <img src="https://github.com/tubakhxn/tubakhxn/blob/main/certification-header.png" alt="Certified Achievements" width="600">
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/444072b0-38d4-4b36-b2de-67fa3b5a7642">
+    <img src="https://images.credly.com/size/340x340/images/444072b0-38d4-4b36-b2de-67fa3b5a7642/blob.png" alt="GitHub Foundations Certification">
+  </a>
+</p>
+
 
 
 
@@ -54,6 +77,7 @@
 ### 🐍 Snake Animation:
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 
 
