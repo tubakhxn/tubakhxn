@@ -59,13 +59,11 @@
 
 ## 🏆 Certified Achievements  
 
-<p align="center">
-  <img src="https://github.com/tubakhxn/tubakhxn/blob/main/certification-header.png" alt="Certified Achievements" width="600">
-</p>
+
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/444072b0-38d4-4b36-b2de-67fa3b5a7642">
-    <img src="https://images.credly.com/size/340x340/images/444072b0-38d4-4b36-b2de-67fa3b5a7642/blob.png" alt="GitHub Foundations Certification">
+    <img src="https://github.com/tubakhxn/tubakhxn/blob/main/Github_Badge1.png" alt="GitHub Foundations Certification" width="300">
   </a>
 </p>
 
