@@ -50,6 +50,12 @@
   <a href="https://www.hackerrank.com/tubak2907?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
   <a href="https://www.leetcode.com/tubak2907" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
   <a href="https://www.postman.com/tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/download.png" height="30" /></a>
+  <a href="https://medium.com/@tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/medium.png" height="30" /></a>
+  <a href="https://stackoverflow.com/users/23440027/tuba-khan" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/stackoverfolow.png" height="30" /></a>
+  <a href="https://www.youtube.com/@simplytuba" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/youtube.png" height="30" /></a>
+
+
+
 </p>
 
 ---
