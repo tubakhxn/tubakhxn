@@ -119,7 +119,7 @@
 
 
 
-# 👨‍💻 My Skills Set:
+# My Skills Set:
 
 <table><tr>
 
