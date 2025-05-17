@@ -195,6 +195,20 @@
 </tr></table>
 
 ---
+<h2 align="left">📚 Latest Blog Posts</h2>
+<p align="center">
+  <a href="https://medium.com/@tubakhxn/building-a-google-clone-with-react-next-js-tailwind-css-75dfa68f556a" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/cab7bea5-bdd4-48bd-924d-c56c2e48c0f0" alt="Google Clone Blog" width="30%" />
+  </a>
+
+  <a href="https://medium.com/@tubakhxn/underrated-tools-every-cs-student-needs-to-know-c0abd5b58606" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/fdca326f-7fbe-496a-aa25-a978accba731" alt="Underrated Tools Blog" width="30%" />
+  </a>
+
+  <a href="https://medium.com/@tubakhxn/beneficial-ai-apps-for-productivity-and-learning-bbcb46364e79" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/c0b200f5-4023-455c-9b93-c1f2bc57d1e4" alt="AI Apps Blog" width="30%" />
+  </a>
+</p>
 
 ## 🏅 Hactoberfest Badges
 
@@ -217,20 +231,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tubakhxn&theme=github_dark"/>
 </p>
-<h2 align="left">📚 Latest Blog Posts</h2>
-<p align="center">
-  <a href="https://medium.com/@tubakhxn/building-a-google-clone-with-react-next-js-tailwind-css-75dfa68f556a" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/cab7bea5-bdd4-48bd-924d-c56c2e48c0f0" alt="Google Clone Blog" width="30%" />
-  </a>
 
-  <a href="https://medium.com/@tubakhxn/underrated-tools-every-cs-student-needs-to-know-c0abd5b58606" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/fdca326f-7fbe-496a-aa25-a978accba731" alt="Underrated Tools Blog" width="30%" />
-  </a>
-
-  <a href="https://medium.com/@tubakhxn/beneficial-ai-apps-for-productivity-and-learning-bbcb46364e79" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/c0b200f5-4023-455c-9b93-c1f2bc57d1e4" alt="AI Apps Blog" width="30%" />
-  </a>
-</p>
 
 
 
