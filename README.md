@@ -54,7 +54,8 @@
   <a href="https://www.postman.com/tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/download.png" height="30" /></a>
   <a href="https://medium.com/@tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/medium.png" height="30" /></a>
   <a href="https://stackoverflow.com/users/23440027/tuba-khan" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/stackoverfolow.png" height="30" /></a>
-  <a href="https://www.youtube.com/@simplytuba" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/youtube.png" height="30" /></a>
+  <a href="https://www.youtube.com/@simplytuba" target="_blank"><img src="https://github.com/user-attachments/assets/9dac9541-3553-4f2e-8d70-923096bbdded" 
+" height="30" /></a>
 
 
 
@@ -248,7 +249,7 @@
 ## 🏆 HackerRank Certifications
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa)" alt="HackerRank Certifications" width="700">
+  <img src="https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa" alt="HackerRank Certifications" width="700">
 </p>
 
 
