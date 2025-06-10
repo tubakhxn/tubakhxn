@@ -51,9 +51,9 @@
   <a href="https://hub.docker.com/u/tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/docker.png" height="30" /></a>
   <a href="https://www.hackerrank.com/tubak2907?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
   <a href="https://www.leetcode.com/tubak2907" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
-  <a href="https://www.postman.com/tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/download.png" height="30" /></a>
-  <a href="https://medium.com/@tubakhxn" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/medium.png" height="30" /></a>
-  <a href="https://stackoverflow.com/users/23440027/tuba-khan" target="_blank"><img src="https://github.com/tubakhxn/tubakhxn/blob/main/stackoverfolow.png" height="30" /></a>
+  <a href="https://www.postman.com/tubakhxn" target="_blank"><img src="https://github.com/user-attachments/assets/62d2345c-19ea-4765-9e50-aaa4293f3dcf" height="30" /></a>
+  <a href="https://medium.com/@tubakhxn" target="_blank"><img src="https://github.com/user-attachments/assets/eb67a6d0-ad68-4dc9-a4c1-a47c5049c047" height="30" /></a>
+  <a href="https://stackoverflow.com/users/23440027/tuba-khan" target="_blank"><img src="https://github.com/user-attachments/assets/6889f61b-bee8-440b-8126-ae12e2abd74c" height="30" /></a>
   <a href="https://www.youtube.com/@simplytuba" target="_blank"><img src="https://github.com/user-attachments/assets/9dac9541-3553-4f2e-8d70-923096bbdded" 
 " height="30" /></a>
 
