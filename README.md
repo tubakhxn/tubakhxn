@@ -245,6 +245,12 @@
   </a>
 </p>
 
+## 🏆 HackerRank Certifications
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa)" alt="HackerRank Certifications" width="700">
+</p>
+
 
 ---
 
