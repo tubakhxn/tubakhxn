@@ -15,7 +15,7 @@ jobs:
         uses: jasineri/gitartwork@main  # Public action
         with:
           user_name: tubakhxn
-          text: Tuba
+          text: TUBA A.KHAN
 
       - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
