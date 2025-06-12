@@ -1,16 +1,23 @@
-name: gitartwork from a contribution graph
+name: Generate GitHub Contribution Graph Artwork
 
 on:
   push:
+    branches:
+      - main
 
 jobs:
   build:
-    name: Make gitartwork SVG
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: tubakhxn/gitartwork@v1
+
+      - name: Generate contribution graph SVG
+        uses: jasineri/gitartwork@main  # Public action
         with:
           user_name: tubakhxn
-          text: TUBA
-      - uses: tubakhxn/simple-push-action@v1
+          text: Tuba
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update gitartwork.svg"
