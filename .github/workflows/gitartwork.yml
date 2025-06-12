@@ -1,0 +1,16 @@
+name: gitartwork from a contribution graph
+
+on:
+  push:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: tubakhxn/gitartwork@v1
+        with:
+          user_name: tubakhxn
+          text: TUBA
+      - uses: tubakhxn/simple-push-action@v1
