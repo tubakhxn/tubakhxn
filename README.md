@@ -32,7 +32,7 @@
 ---
 
 
-## 💫 About Me
+##  About Me
 
 - 🎯 Exploring **Android App Development**
 - 💼 Currently working on **multiple development projects**
@@ -199,19 +199,19 @@
   </a>
 </p>
 
-## 🏅 Hactoberfest Badges
+##  Hactoberfest Badges
 
 [![An image of @tubakhxn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tubakhxn)](https://holopin.io/@tubakhxn)
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tubakhxn&show_icons=true&theme=radical" alt="tubakhxn GitHub Stats"/>
@@ -227,15 +227,21 @@
 
 ---
 
-## 🏆 Certified Achievements
+## Certified Achievements
 
-<p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/444072b0-38d4-4b36-b2de-67fa3b5a7642">
-    <img src="https://github.com/tubakhxn/tubakhxn/blob/main/Github_Badge1.png" alt="GitHub Certification" width="300">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.credly.com/earner/earned/badge/444072b0-38d4-4b36-b2de-67fa3b5a7642" target="_blank">
+    <img src="https://github.com/tubakhxn/tubakhxn/blob/main/Github_Badge1.png" alt="GitHub Certification" height="300">
   </a>
-</p>
 
-## 🏆 HackerRank Certifications
+  <a href="https://badgr.com/public/assertions/1HWQ_3IBQEeaC2wmhsYl5w?identity__email=tubak2907@gmail.com" target="_blank">
+    <img src="https://badgr.com/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" alt="Postman API Badge" height="300">
+  </a>
+</div>
+
+
+
+##  HackerRank Certifications
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa" alt="HackerRank Certifications" width="700">
@@ -245,7 +251,7 @@
 ---
 
 
-## 🐍 Snake Animation
+## Snake Animation
 
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
