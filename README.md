@@ -33,14 +33,11 @@
 
 
 ##  About Me
-
-- 🎯 Exploring **Android App Development**
-- 💼 Currently working on **multiple development projects**
 - 📝 Regularly writing at [my blog](https://tubakhan.art.blog/)
 - 💻 Check out my portfolios:
-  - 🌐 [3D Portfolio](https://tubakhan.vercel.app/)
-  - 🌐 [Main Portfolio](https://tubaakhxn.netlify.app/)
-- 📫 Reach me at: **tubak2907@gmail.com**
+  -  [3D Portfolio](https://tubakhan.vercel.app/)
+  -  [Main Portfolio](https://tubaakhxn.netlify.app/)
+-  Reach me at: **tubak2907@gmail.com**
 
 ---
 
