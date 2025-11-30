@@ -35,8 +35,7 @@
 ##  About Me
 - 📝 Regularly writing at [my blog](https://tubakhan.art.blog/)
 - 💻 Check out my portfolios:
-  -  [3D Portfolio](https://tubakhan.vercel.app/)
-  -  [Main Portfolio](https://tubaakhxn.netlify.app/)
+  -  [Main Portfolio](https://tubakhan.vercel.app/)
 -  Reach me at: **tubak2907@gmail.com**
 
 ---
