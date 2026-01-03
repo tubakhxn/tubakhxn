@@ -11,7 +11,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="https://github.com/tubakhxn/tubakhxn/blob/main/github-header-image.png" width="100%">
+<img src="https://github.com/Amit-bott/tubakhxn/blob/main/github-header-image.png" width="100%">
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
