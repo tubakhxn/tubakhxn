@@ -48,11 +48,7 @@
 
 <br /><br />
 
-### Activity
 
-<img src="https://img.shields.io/github/followers/tubakhxn?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="Followers" />
-
-<br /><br />
 
 <img src="https://raw.githubusercontent.com/tubakhxn/tubakhxn/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
