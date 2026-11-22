@@ -23,9 +23,10 @@
 
 ### About
 
-- 🔭 Computer vision & full-stack developer
-- 🧠 Exploring AI, robotics & motion tracking
-- ✍️ Writing at [my blog](https://tubakhan.art.blog/)
+- Computer vision & full-stack developer
+- Exploring AI, robotics & motion tracking
+- Writing lifestyle blogs at [my blog](https://tubakhan.art.blog/)
+- Tech blogs at  [tech blog](https://medium.com/@tubakhxn)
 - 📫 tubak2907@gmail.com
 
 </td>
