@@ -7,11 +7,10 @@
 <br />
 
 <a href="https://tubakhxn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/tubakhxn/"><img src="https://img.shields.io/badge/LinkedIn-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="https://medium.com/@tubakhxn"><img src="https://img.shields.io/badge/Medium-58a6ff?style=flat-square&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium" /></a>
 <a href="https://www.youtube.com/@simplytuba"><img src="https://img.shields.io/badge/YouTube-58a6ff?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
+<a href="https://leetcode.com/u/tubak2907/"><img src="https://img.shields.io/badge/LeetCode-58a6ff?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" /></a>
 <a href="mailto:tubak2907@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-
 </div>
 
 <br />
